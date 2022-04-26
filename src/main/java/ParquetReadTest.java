@@ -5,7 +5,6 @@ import org.apache.parquet.cli.Main;
 
 public class ParquetReadTest {
 
-//    private static File file = new File("/home/theosib/part-00000-f9abbf62-f231-4186-a6bb-bd65631405e9.c000.snappy.parquet");
 //    private static File file = new File("/home/theosib/modified.parquet");
 //    private static File file = new File("/home/theosib/original.parquet");
 private static File file = new File("/home/theosib/guid.parquet");
